@@ -15,6 +15,8 @@ public class Book {
 	private String publishDate ;
 	private String price ;
 	private long bookId;
+	private String imageLocation ;
+	
 	
 	
 	public String getBookName() {
@@ -46,6 +48,12 @@ public class Book {
 	}
 	public void setBookId(long bookId) {
 		this.bookId = bookId;
+	}
+	public String getImageLocation() {
+		return imageLocation;
+	}
+	public void setImageLocation(String imageLocation) {
+		this.imageLocation = imageLocation;
 	}
 
 }

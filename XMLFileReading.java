@@ -39,6 +39,7 @@ public class XMLFileReading {
 					book.setAuthor(eElement.getElementsByTagName("author").item(0).getTextContent());
 					book.setPublishDate(eElement.getElementsByTagName("publishDate").item(0).getTextContent());
 					book.setPrice(eElement.getElementsByTagName("price").item(0).getTextContent());
+					book.setImageLocation(eElement.getElementsByTagName("imageLocation").item(0).getTextContent());
 				}
 				booksList.add(book);
 			}
