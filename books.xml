@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+	<book id="1001">
+		<bookName>coreJava</bookName>
+		<author>R Nageswarrao</author>
+		<publishDate>10-12-2017</publishDate>
+		<price>500</price>
+	</book>
+	<book id="1002">
+		<bookName>AdvJava</bookName>
+		<author>JamesGosling</author>
+		<publishDate>10-12-2017</publishDate>
+		<price>1000</price>
+	</book>
+	<book id="1003">
+		<bookName>HTML</bookName>
+		<author>HTMLAuthor</author>
+		<publishDate>10-12-2017</publishDate>
+		<price>1000</price>
+	</book>
+	<book id="1004">
+		<bookName>CSS</bookName>
+		<author>CSSAuthor</author>
+		<publishDate>10-12-2017</publishDate>
+		<price>1000</price>
+	</book>
+	<book id="1005">
+		<bookName>Javascript</bookName>
+		<author>JavaScriptAuthor</author>
+		<publishDate>10-12-2017</publishDate>
+		<price>1000</price>
+	</book>
+	<book id="1006">
+		<bookName>RestApi</bookName>
+		<author>RestApiAuthor</author>
+		<publishDate>10-12-2017</publishDate>
+		<price>1000</price>
+	</book>
+</books>
